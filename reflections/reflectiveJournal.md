@@ -18,7 +18,7 @@ It is language that allows us to describe processes through illustrations. It co
 ### What are some programming principles that you have discovered?
 When I was making some projects on scratch:
 It's difficult to delete code that you lovingly picked and nurtured and spent time with like it's your child. But have to delete to make way for the better code that would actually let your code run properly.
-Had to learn that code runs immediately, needs to code in the timing and loops so they dont run simultaneously.
+Had to learn that code runs immediately, needs to code in the timing and loops so they don't run simultaneously.
  When you can visually see what the code changes and there's already a set of functions that you can choose from, it's easier to focus on learning the concepts and principles instead of the actual code. It's great for beginners to familiarise and explore using a VPL.
 
 
@@ -35,7 +35,7 @@ Had to learn that code runs immediately, needs to code in the timing and loops s
 
  <!--- <iframe src="https://scratch.mit.edu/projects/717566278/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe> --->
  
- <!--- I hid some of the embed code just in case of my Scratch projects--->
+ <!--- I hid some of the embed code, just in case, of my Scratch projects--->
  
  I also have a private project that I used to learn more components inside scratch where scratch is trying to become the next american idol by trying to catch the microphone.
 And an adventure game inspired mini-project where scratch and a ghost character are teleporting between locations which makes the ghost sprite go crazy in a perpetual loop.
@@ -133,7 +133,7 @@ Now, I have to live with the regret that no one noticed I'm actually kinda funny
  
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
- 22 tabs in 4 windows. All for study purposes. Distraction related tabs are put in a "open later" bookmark folder so that my laptop doesn't die from ram usage.
+ 22 tabs in 4 windows. All for study purposes. Distraction related tabs are put in a "open later" bookmark folder so that my laptop doesn't die from RAM usage.
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
  Maybe when koans wouldn't work on my computer. I felt like throwing it out the window. Took a breath, apologised to the device, "we, the humans, are at fault" and I tried repeating steps- but I still have not overcome this but I'm planning on asking someone for a tip on how to use powershell.
@@ -143,7 +143,7 @@ Now, I have to live with the regret that no one noticed I'm actually kinda funny
  An IDE or an integrated development environment is a software suite that consists of tools to develop and test software applications.
 
 ### What did you learn out of the Marshmallow Challenge? Did you have any blocks during this challenge? How did you overcome them?
- I was recovering from a concussion so I wasn't there for the Marshmallow Challenge but we did something similar in high school PE. I was in a team with Japanese exchange students(relevant information) competing with my classmates. And I learned a lot about my shortcomings. Even though I was in charge, we won because of teamwork, 100% and I would have lost alone or if they listened to everything I said. We were given just a few inches of tape, paper and straws to build a structure that can carry a marshmallow. I came up with the foundation design but turns out that I was impatient and unrefined. I just wanted to get it done as soon as possible that I was haphazard with the tape and alignment. But my teammates showed "Kaizen", they mindfully used each resource and aligned everything carefully and that made our building strong and tall. The benefit of them using their time like that, outweighed the cost of finishing early. At the time I felt they were wasting time because I felt each second ticking by but actually the bigger picture is that the nurture they put in made it strong and lead to no mistakes that needed even more time to fix. This challenge is surprisingly philosophical.
+ I was recovering from a concussion so I wasn't there for the Marshmallow Challenge but we did something similar in high school PE. I was in a team with Japanese exchange students(relevant information) competing with my classmates. And I learned a lot about my shortcomings. Even though I was in charge, we won because of teamwork, 100% and I would have lost alone or if they listened to everything I said. We were given just a few inches of tape, paper and straws to build a structure that can carry a marshmallow. I came up with the foundation design but turns out that I was impatient and unrefined. I just wanted to get it done as soon as possible that I was haphazard with the tape and alignment. But my teammates showed "monozukuri", they mindfully used each resource and aligned everything carefully and that made our building strong and tall. The benefit of them using their time like that, outweighed the cost of finishing early. At the time I felt they were wasting time because I felt each second ticking by but actually the bigger picture is that the nurture they put in made it strong and lead to no mistakes that needed even more time to fix. This challenge is surprisingly philosophical.
 
 
 ### So far, what was the hardest moment of this course for you?
@@ -191,7 +191,7 @@ Now, I have to live with the regret that no one noticed I'm actually kinda funny
  I want to learn JavaScript. So I can finally get the jokes on reddit in r/ProgrammerHumor, and also because I think it would help me create web content.
 
 ### What is something kind that someone has done for you?
- One time someone held the elevator door for me to get on. Usually people just go.
+ One time someone held the elevator door for me to get on. Usually people just go. But in personal life, my friend got me sushi when I was sad.
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 Programming is when you ask the computer to do something but you have to figure out how to ask it in the way it wants to be asked.
